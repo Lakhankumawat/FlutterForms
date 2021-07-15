@@ -6,9 +6,9 @@
 The steps will be followed as :-
 
 ✔1. Creating a **Form Modal** <br>
-✔2. Adding** elements**<br> 
-✔3. **Validating ** Form <br>
-✔4.  **Saving **Form Data 
+✔2. Adding **elements**<br> 
+✔3. **Validating** Form <br>
+✔4.  **Saving** Form Data 
 
 <img align="center" alt="intro" width="50%"  
 src="https://media.makeameme.org/created/lets-get-started-c5b4b030cd.jpg">
