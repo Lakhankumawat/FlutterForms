@@ -224,7 +224,7 @@ child: Form(
 src="https://cdn.hashnode.com/res/hashnode/image/upload/v1626361210778/2-_f0zKfG.jpeg">
 
 
-# 4. **Saving **Form Data
+# 4. **Saving** Form Data
 
 👀 Can't wait to see final results , me too !
 So this is final and easiest step , we call save property on our currentstate of form if it's validated and save our form values in our variables named `userName` `userEmail` and `password` respectively .
